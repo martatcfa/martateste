@@ -17,6 +17,9 @@ class MainActivity : AppCompatActivity() {
             insets
             //uuu
             //ooooo
+            //oooo
+
         }
+        var teste : String ="Ola"
     }
 }
